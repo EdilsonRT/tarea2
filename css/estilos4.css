@@ -1,0 +1,249 @@
+.caja1
+{
+    background-color: lime;
+    width: 35px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 96px; /*distancia de las cajas*/
+    left:150px;
+    border-radius: 500px;
+}
+.caja2
+{
+ background-color: black;
+ width: 5px;height: 20px;
+ position: fixed;
+ top: 130px;
+ left:165px;   
+}
+.caja3
+{
+    background-color: orange;
+    width: 150px; height: 150px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 150px; /*distancia de las cajas*/
+    left:100px;border-radius: 10px;
+}
+.caja4
+{
+    background-color: lime;
+    width: 35px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 200px; /*distancia de las cajas*/
+    left:65px;
+    border-radius: 500px;
+}
+.caja5
+{
+    background-color: lime;
+    width: 35px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 200px; /*distancia de las cajas*/
+    left:250px;
+    border-radius: 500px;
+}
+.caja6
+{
+    background-color: orange;
+    width: 40px; height: 30px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 300px; /*distancia de las cajas*/
+    left:160px;border-radius: 10px;
+    
+}
+.caja7
+{
+    background-color: orange;
+    width: 155px; height: 155px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 320px; /*distancia de las cajas*/
+    left:100px;
+    border-radius: 10px;
+}
+.caja8
+{
+    background-color: orange;
+    width: 95px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 470px; /*distancia de las cajas*/
+    left:130px;border-radius: 10px;
+}
+.caja9
+{
+    background-color: orange;
+    width: 200px; height: 100px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 490px; /*distancia de las cajas*/
+    left:80px;
+    border-radius: 10px;
+}
+.caja10
+{
+    background-color: purple;
+    width: 35px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 190px; /*distancia de las cajas*/
+    left:130px;
+}
+.caja11
+{
+    background-color: purple;
+    width: 35px; height: 35px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 190px; /*distancia de las cajas*/
+    left:190px; 
+}
+.caja12
+{
+    background-color: yellow;
+    width: 30px;height: 30px;
+    position: fixed;
+    top: 224px;
+    left: 162px;
+    border-radius: 50px;
+}
+.caja13
+{
+    background-color: palevioletred;
+    width: 80px;height: 20px;
+    position: fixed;
+    top: 260px;
+    left: 140px;
+}
+.caja14
+{
+    background-color:blue;
+    width: 80px;height: 8px;
+    position: fixed;
+    top: 360px; /*distancia de las cajas*/
+    left:35px;border-radius: 10px;
+    transform: rotate(45deg)
+}
+.caja15
+{
+    background-color:blue;
+    width: 80px;height: 8px;
+    position: fixed;
+    top: 360px; /*distancia de las cajas*/
+    left:235px;border-radius: 10px;
+    transform: rotate(120deg)
+}
+.caja16
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 199px; /*distancia de las cajas*/
+    left:140px;
+}
+.caja17
+{
+    background-color: black;
+    width: 15px; height: 15px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 200px; /*distancia de las cajas*/
+    left:200px;
+}
+.caja18
+{
+    background-color:green;
+    width: 145px; height: 30px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 355px; /*distancia de las cajas*/
+    left:105px;border-radius: 40px;
+    
+}
+.caja19
+{
+    background-color: green;
+    width: 145px; height: 30px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 400px; /*distancia de las cajas*/
+    left:105px;border-radius: 40px;
+    
+}
+.caja20
+{
+    background-color: greenyellow;
+    width: 35px; height: 75px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 497px; /*distancia de las cajas*/
+    left:216px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.caja21
+{
+    background-color: greenyellow;
+    width: 35px; height: 75px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 497px; /*distancia de las cajas*/
+    left:100px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+.caja22
+{
+    background-color: greenyellow;
+    width: 35px; height: 75px;
+    position: fixed;  /*sirve para fijar una caja*/
+    top: 497px; /*distancia de las cajas*/
+    left:160px;
+    border-style: solid;
+    border-color: black;
+    border-radius: 10px;
+}
+
+.caja23
+{
+    background-color:blue;
+    width: 30px;height: 5px;
+    position: fixed;
+    top: 317px; /*distancia de las cajas*/
+    left:31px;border-radius: 10px;
+    transform: rotate(82deg)
+}
+.caja24
+{
+    background-color:blue;
+    width: 30px;height: 5px;
+    position: fixed;
+    top: 330px; /*distancia de las cajas*/
+    left:20px;border-radius: 10px;
+    transform: rotate(20deg)
+}
+
+.caja25
+{
+    background-color:blue;
+    width: 30px;height: 5px;
+    position: fixed;
+    top: 316px; /*distancia de las cajas*/
+    left:272px;border-radius: 10px;
+    transform: rotate(80deg)
+}
+.caja26
+{
+    background-color:blue;
+    width: 30px;height: 5px;
+    position: fixed;
+    top: 320px; /*distancia de las cajas*/
+    left:286px;border-radius: 10px;
+    transform: rotate(130deg)
+}
+.nom
+{
+    background-color: gray;
+    height: 50px;
+    width:260px; 
+}
+.caja27
+{
+    background-color: black;
+    width: 60px;height: 5.5px;
+    position: fixed;
+    top: 267px;
+    left: 150px;border-radius: 10px;
+
+}
